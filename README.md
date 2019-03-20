@@ -1,2 +1,2 @@
-# java
-İşime yarayan bazı örnekleri bu kısıma eklemekteyim.
+# java ile performans amacli 
+İşime yarayan bazı örnekler
